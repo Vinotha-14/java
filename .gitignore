@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+
+# Ignore packaged jar files
+*.jar
+
+# Ignore IDE-specific folders
+.idea/
+.vscode/
+*.iml
+
+# Ignore system and temporary files
+Thumbs.db
+.DS_Store
+desktop.ini
+~$*
+
+# Ignore log files
+*.log
